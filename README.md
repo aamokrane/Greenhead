@@ -1,0 +1,2 @@
+# Greenhead
+This contains the source code in C++ of Greenhead (http://rboutaba.cs.uwaterloo.ca/Papers/Journals/2013/AmokraneTCC13.pdf), a work I did during my PhD. It is part of the SAVI project, a nationwide canadian project (https://www.savinetwork.ca). Greenhead handles Virtual Data Center requests (Virtual Private Cloud equivalent) and places the different VMs and Virtual Links on a physical distributed infrastructure of heterogeneous data centers. This work is partly  addressing issues identified in the SAVI project.
